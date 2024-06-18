@@ -1,16 +1,10 @@
-<h1 align="center">  This is a Machine Learning / AI Project </h1>
-
-<p align="center"> 
-Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
-</p>
+<h1 align="center">  Stunting & Diabetes Prediction </h1>
 
 <div align="center">
     <!-- Your badges here -->
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -20,21 +14,19 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 
 ## Teams
 
-- Arifian Saputra (Design Researcher)
-- Ichsan Takwa (Machine Learning Engineer)
-- Siska Anggraeni (Machine Learning Ops)
-- Cindy Febriani (Data Engineer)
-- Fariq Almasri (Data Engineer)
-- Wahyudi (Machine Learning Ops)
-- Agistira Lamunde (Machine Learning Engineer)
+- Sheila Laksmi Andini (Design Researcher)
+- Lina Putri Gemilang (Data Engineer)
+- Rizky Andika Apriansyah (ML Engineer)
+- Athaya Rizki (ML Engineer)
+- Zyqra Noer Khalif (ML Ops)
 
 ## Idea Background
 
 ### 1. Theme
-Tema : Cuaca dan Iklim
+Layanan Kesehatan Masyarakat
 
 ### 2. Problem
-Masalah : Prediksi Cuaca yang tidak akurat
+- Masyarakat 
 
 ### 3. Solution
 Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
