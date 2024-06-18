@@ -64,11 +64,11 @@ Kami menggunakan Scikit-learn sebagai framework yang kami pilih.
     ![WhatsApp Image 2024-06-18 at 12 43 26](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/62be67f3-9cd8-47bc-83e6-6538aa3a975d)<br />
 
 ## Prototype
-    - Stunting Prediction Prototype<br />
-    ![WhatsApp Image 2024-06-18 at 12 51 15](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/2e7b5904-b05d-4e61-a61a-d0337a6ff753)<br />
+- Stunting Prediction Prototype<br />
+![WhatsApp Image 2024-06-18 at 12 51 15](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/2e7b5904-b05d-4e61-a61a-d0337a6ff753)<br />
 
-    - Diabetes Prediction Prototype<br />
-    ![WhatsApp Image 2024-06-18 at 12 49 46](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/70da43ae-6d3a-4a5d-a037-98c293f12e21)<br />    
+- Diabetes Prediction Prototype<br />
+![WhatsApp Image 2024-06-18 at 12 49 46](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/70da43ae-6d3a-4a5d-a037-98c293f12e21)<br />    
 
 ## Integration
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
