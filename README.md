@@ -26,10 +26,14 @@
 Layanan Kesehatan Masyarakat
 
 ### 2. Problem
-- Masyarakat 
+- Keakuratan Prediksi
+- Integrasi Teknologi
+- Penggunaan oleh Pengguna
 
 ### 3. Solution
-Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
+- Keakuratan Prediksi
+    - Implementasikan algoritma pembelajaran mesin terbaru seperti SVM atau KNN yang telah terbukti efektif dalam prediksi penyakit.
+    - Melakukan pelatihan model menggunakan data yang luas dan beragam serta uji model secara berkala untuk meningkatkan akurasi.
 
 ## Dataset and Algorithm
 
