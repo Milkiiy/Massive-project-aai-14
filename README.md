@@ -64,6 +64,7 @@ Kami menggunakan Scikit-learn sebagai framework yang kami pilih.
     ![WhatsApp Image 2024-06-18 at 12 43 26](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/62be67f3-9cd8-47bc-83e6-6538aa3a975d)<br />
 
 ## Prototype
+Berikut adalah Prototype dari Model kami : <br />
 - Stunting Prediction Prototype<br />
 ![WhatsApp Image 2024-06-18 at 12 51 15](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/2e7b5904-b05d-4e61-a61a-d0337a6ff753)<br />
 
@@ -71,13 +72,20 @@ Kami menggunakan Scikit-learn sebagai framework yang kami pilih.
 ![WhatsApp Image 2024-06-18 at 12 49 46](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/70da43ae-6d3a-4a5d-a037-98c293f12e21)<br />    
 
 ## Integration
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+Model yang dikembangkan diintegrasikan ke dalam aplikasi berbasis web menggunakan teknologi Docker dan IBM Cloud untuk penyebaran yang mudah dan efisien.
 
 ## Deployment
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+Berikut adalah hasil uji API yang kami lakukan di Postman : <br />
+- Stunting Prediction Prototype<br />
+![WhatsApp Image 2024-06-10 at 12 05 06](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/d819ca7b-3c64-45ea-85c4-268a02653da2)<br />
+
+- Diabetes Prediction Prototype<br />
+![WhatsApp Image 2024-06-10 at 12 05 22](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/5f410dd3-735c-4f0e-8d98-79c3c40c14f7)<br />  
 
 ## Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+Berikut adalah hasil saat model kami sudah di deploy ke website berbasis react : <br />
+![WhatsApp Image 2024-06-18 at 12 57 46](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/3c35e25b-4f96-442f-9525-dad8b8a3475b)<br /> 
+![WhatsApp Image 2024-06-18 at 12 58 03](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/0fadefbc-c5a9-42c7-a404-af3376c9090f)<br /> 
 
 ## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+
