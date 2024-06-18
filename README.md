@@ -34,27 +34,34 @@ Layanan Kesehatan Masyarakat
 - Keakuratan Prediksi
     - Implementasikan algoritma pembelajaran mesin terbaru seperti SVM atau KNN yang telah terbukti efektif dalam prediksi penyakit.
     - Melakukan pelatihan model menggunakan data yang luas dan beragam serta uji model secara berkala untuk meningkatkan akurasi.
+- Integrasi Teknologi
+    - Menggunakan IBM Watson Cloud Watson Studio untuk Deployment atau Integrasi Model kedalam Website berbasis React
+- Penggunaan Oleh Pengguna
+    - Desain antarmuka pengguna yang sederhana dan mudah dipahami, dengan penjelasan jelas tentang hasil prediksi.
 
 ## Dataset and Algorithm
 
 ### 1. Dataset
 - Data Collection <br />
-Kami menemukan data kami di Kaggle.
-- Data Cleaning <br />
-Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang belum dibersihkan dan yang sudah: 
+Kami memakai data Stunting dan Diabetes yang kami temuka di Kaggle, berikut ini adalah link kaggle tersebut :
 
-Poin soal dataset boleh ditambahkan sesuai kebutuhan.
+Stunting : https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows
+Diabetes : https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset
+
+- Data Cleaning <br />
+Setelah kami melakukan process cleaning tidak ada yang harus di bersihkan dalam dataset tersebut, dataset dalam keadaan bersih.
 
 ### 2. Algorithm
 
 - Framework <br />
-Kami menggunakan TensorFlow dan Keras.
-
-- Pembangunan Model <br />
-Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
+Kami menggunakan Scikit-learn sebagai framework yang kami pilih.
 
 - Model Evaluation <br />
-Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, dan lain - lain.
+Stunting Prediction Model Evaluation
+![WhatsApp Image 2024-06-18 at 12 43 17](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/a0838ae2-0752-4b3f-b1e0-4ee0f6dc7771)
+
+Diabetes Prediction Model Evaluation
+![WhatsApp Image 2024-06-18 at 12 43 26](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/62be67f3-9cd8-47bc-83e6-6538aa3a975d)
 
 ## Prototype
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
