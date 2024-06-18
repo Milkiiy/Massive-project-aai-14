@@ -57,11 +57,11 @@ Setelah kami melakukan process cleaning tidak ada yang harus di bersihkan dalam 
 Kami menggunakan Scikit-learn sebagai framework yang kami pilih.
 
 - Model Evaluation <br />
-Stunting Prediction Model Evaluation<br />
-![WhatsApp Image 2024-06-18 at 12 43 17](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/a0838ae2-0752-4b3f-b1e0-4ee0f6dc7771)<br />
+    - Stunting Prediction Model Evaluation<br />
+    ![WhatsApp Image 2024-06-18 at 12 43 17](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/a0838ae2-0752-4b3f-b1e0-4ee0f6dc7771)<br />
 
-Diabetes Prediction Model Evaluation<br />
-![WhatsApp Image 2024-06-18 at 12 43 26](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/62be67f3-9cd8-47bc-83e6-6538aa3a975d)<br />
+    - Diabetes Prediction Model Evaluation<br />
+    ![WhatsApp Image 2024-06-18 at 12 43 26](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/62be67f3-9cd8-47bc-83e6-6538aa3a975d)<br />
 
 ## Prototype
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
