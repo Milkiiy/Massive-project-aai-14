@@ -44,7 +44,6 @@ Layanan Kesehatan Masyarakat
 ### 1. Dataset
 - Data Collection <br />
 Kami memakai data Stunting dan Diabetes yang kami temuka di Kaggle, berikut ini adalah link kaggle tersebut : <br />
-<br />
 Stunting : https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows<br />
 Diabetes : https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset<br />
 
