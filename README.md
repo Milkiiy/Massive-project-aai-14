@@ -23,7 +23,7 @@
 ## Idea Background
 
 ### 1. Theme
-Layanan Kesehatan Masyarakat
+Layanan Kesehatan Masyarakat (Lakesmas)
 
 ### 2. Problem
 - Keakuratan Prediksi
@@ -87,4 +87,5 @@ Berikut adalah hasil saat model kami sudah di deploy ke website berbasis react :
 ![WhatsApp Image 2024-06-18 at 12 58 03](https://github.com/Milkiiy/Massive-project-aai-14/assets/114728966/0fadefbc-c5a9-42c7-a404-af3376c9090f)<br /> 
 
 ## Conclusion
+Lakesmas.id adalah sebuah website layanan kesehatan yang memiliki fitur tambahan khusus untuk memprediksi penyakit stunting dan diabetes. Menggunakan algoritma SVM dan K-Nearest Neighbor, model ini dilatih dan dicoba untuk memprediksi data baru yang dimasukkan oleh pengguna. Adapun tujuan dari projek ini adalah sebagai website dengan informasi kesehatan serta membantu pengguna agar mengatasi penyakit stunting dan diabetes lebih awal.
 
